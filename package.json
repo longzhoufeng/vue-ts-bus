@@ -1,15 +1,15 @@
 {
-  "name": "vue-ts-bus",
-  "version": "1.0.0",
-  "description": "minigui-vue-typescript-bus",
+  "name": "vue-m-ts-bus",
+  "version": "1.0.1",
+  "description": "vue-minigui-typescript-bus",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "vue-bus",
-    "minigui-vue-ts-bus",
-    "vue-typescript-bus",
+    "vue-m-ts-bus",
+    "vue-minigui-typescript-bus",
     "typescript"
   ],
   "author": "longzhoufeng",

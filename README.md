@@ -1,10 +1,10 @@
-# vue-ts-bus
+# vue-m-ts-bus
 
 Vue-ts-bus is a vue-typescript-bus plugin that supports typescript
 
 ## keywords
 
-Vue-ts-bus vue-typescript-bus minigui-vue-ts-bus
+vue-m-ts-bus vue-typescript-bus minigui-vue-ts-bus
 
 ## License
 
@@ -13,7 +13,7 @@ MIT License
 ## Install
 
 ```bash
-npm i -S vue-ts-bus
+npm i -S vue-m-ts-bus
 ```
 
 ## Usage
@@ -22,7 +22,7 @@ npm i -S vue-ts-bus
 #main.ts
 
 import Vue from 'vue';
-import tsBus from 'vue-ts-bus';
+import tsBus from 'vue-m-ts-bus';
 
 Vue.use(tsBus);
 var bus = new tsBus.Bus();
