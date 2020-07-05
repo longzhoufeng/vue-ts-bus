@@ -1,0 +1,25 @@
+{
+  "name": "vue-ts-bus",
+  "version": "1.0.0",
+  "description": "minigui-vue-typescript-bus",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue-bus",
+    "minigui-vue-ts-bus",
+    "vue-typescript-bus",
+    "typescript"
+  ],
+  "author": "longzhoufeng",
+  "license": "MIT",
+  "devDependencies": {
+    "vue": "^2.5.17"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/longzhoufeng/vue-ts-bus.git"
+  },
+  "types": "types/index.d.ts"
+}
