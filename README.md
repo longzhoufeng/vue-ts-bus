@@ -1,6 +1,6 @@
 # vue-m-ts-bus
 
-Vue-ts-bus is a vue-typescript-bus plugin that supports typescript
+vue-m-ts-bus is a vue-typescript-bus plugin that supports typescript
 
 ## keywords
 
